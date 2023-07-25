@@ -1,7 +1,7 @@
 # Slide Effects
 -------------------------------
 
-![slideEffects 썸네일이미지](/img/slide-page.png)
+![slideEffects 썸네일이미지](/img/slide-page.PNG)
 
 ##### 시간이 지남에 따라, 클릭함에 따라 이미지가 넘어가는 슬라이드 효과를 만들었습니다.    
 ##### 기본적인 슬라이드 효과를 여러 방법으로 구현했습니다.
